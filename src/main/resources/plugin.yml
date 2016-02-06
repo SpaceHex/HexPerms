@@ -1,0 +1,9 @@
+name: BlankPlugin
+main: net.spacegeek224.blankplugin.Main
+version: 1.0.0
+author: spacegeek224
+commands:
+  command:
+    description: A command
+    usage: /gun
+    permission: plugin.commamd
