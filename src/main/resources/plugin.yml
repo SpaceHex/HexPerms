@@ -3,7 +3,7 @@ main: net.spacegeek224.hexperms.HexPerms
 version: 0.0.1
 author: spacegeek224
 commands:
-  command:
+  hex:
     description: HexPerms main command.
     usage: /hex
     permission: hex.hex
