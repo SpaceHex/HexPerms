@@ -6,4 +6,4 @@ commands:
   hex:
     description: HexPerms main command.
     usage: /hex
-    permission: hex.hex
+    permission: hex.command
